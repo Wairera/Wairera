@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wairera
 - 👀 I’m interested in Data Engineering and Data Analytics
-- 🌱 I’m currently learning SQL - from zeto to Mastery
+- 🌱 I’m currently learning SQL - from zero to Mastery
 - 💞️ I’m looking to collaborate on Data Engineering work
 - 📫 How to reach me whatsapp/GitHub/email
 <!---
